@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumaranssiva
 - 👀 I’m interested in Datascience
-- 🌱 I’m currently learning R.
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
